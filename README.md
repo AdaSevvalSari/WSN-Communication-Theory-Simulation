@@ -18,15 +18,15 @@ The study is based on IEEE 802.15.4 and highlights the relationship between reli
 
 ### BER vs Eb/N₀ (Modulation Comparison)
 
-![BER vs Eb/N0](images/fig1.png)
+![BER vs Eb/N0](imagesfig1.png)
 
 ### SNR vs Distance
 
-![SNR vs Distance](images/fig2.png)
+![SNR vs Distance](imagesfig2.png)
 
 ### Shannon Capacity vs SNR
 
-![Shannon Capacity](images/fig3.png)
+![Shannon Capacity](imagesfig3.png)
 
 ---
 
